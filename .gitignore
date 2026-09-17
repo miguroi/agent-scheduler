@@ -1,0 +1,16 @@
+node_modules/
+dist/
+coverage/
+.env*
+!.env.example
+!.env.local.example
+wa-session/
+*.data.json
+*.log
+*.tsbuildinfo
+pairing-qr.png
+screenshot_*.png
+.DS_Store
+.idea/
+.vscode/
+config/personalization.json

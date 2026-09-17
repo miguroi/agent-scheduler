@@ -1,0 +1,8 @@
+services:
+  app:
+    ports:
+      - "127.0.0.1:3000:3000"
+
+volumes:
+  wa_session:
+    name: agent-scheduler_wa_session_retry

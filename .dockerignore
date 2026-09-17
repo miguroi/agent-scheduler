@@ -1,0 +1,17 @@
+node_modules
+dist
+.env*
+.git
+wa-session
+*.data.json
+*.log
+*.tsbuildinfo
+pairing-qr.png
+screenshot_*.png
+coverage
+test
+docs
+.DS_Store
+.idea
+.vscode
+config/personalization.json
